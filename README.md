@@ -1,1 +1,3 @@
 # analog-clock
+
+# this is second project with python. ı am working learn python that is why ı created this project...
